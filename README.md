@@ -1,8 +1,9 @@
 <div id="header" align="center">
     <div>
-    <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+    <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360">
         
     </div>
+ <div>
     <h1 align="center">Hi 👋, I'm Damián Quiñonez</h1>
     <h3 align="center">A passionate web full stack developer/Tester from Argentina.</h3>
 </div>
@@ -13,7 +14,6 @@
         <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDemianQnz"
             alt="Twitter Badge" />
         
-</div>
 
 ---
 
