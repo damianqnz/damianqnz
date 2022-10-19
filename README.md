@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <img src="https://giphy.com/gifs/coxQHKASG60HrHtvkt" width="200" />
-    <iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p>
     <h1 align="center">Hi 👋, I'm Damián Quiñonez</h1>
     <h3 align="center">A passionate web full stack developer/Tester from Argentina.</h3>
 </div>
