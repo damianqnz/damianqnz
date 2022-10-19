@@ -7,15 +7,12 @@
 
 
 <div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
+    <a href="[LinkedIn](https://linkedin.com/damianqnz)">
         <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
             alt="Twitch Badge" />
     </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
+    
+    <a href="[Twitter](https://twitter.com/DemianQnz")>
         <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
@@ -25,15 +22,13 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 💬 Ask me about **Pyhton, Javascript, Html, Css**
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
-
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **damii_qnz@live.com**
 
 - 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
 
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌐 Website in production
 
 
 <div align="left">
