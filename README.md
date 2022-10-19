@@ -46,7 +46,6 @@
 
 ---
         
-<div id="header" align="center">
         
 ### 📊 My Stats :
 
