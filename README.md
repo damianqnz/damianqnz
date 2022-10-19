@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
             alt="Twitch Badge" />
     </a>
-    
+<div id="badges" align="center">
     <a href="[Twitter](https://twitter.com/DemianQnz")>
         <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
