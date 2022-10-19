@@ -45,7 +45,9 @@
 </div>
 
 ---
-
+        
+<div id="header" align="center">
+        
 ### 📊 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Damianqnz&theme=dark)](https://git.io/streak-stats)
