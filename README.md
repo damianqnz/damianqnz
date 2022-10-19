@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <div
-        <img src="https://giphy.com/embed/MWRiRARGbMKBnErBHX" alt=”gif de algo”> 
+    <div>
+         <img src="https://giphy.com/embed/MWRiRARGbMKBnErBHX" alt="gif de algo" width="480" height="231" frameBorder="0" class="giphy-embed" allowFullScreen> 
     </div>
  <div>
     <h1 align="center">Hi 👋, I'm Damián Quiñonez</h1>
