@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <div
-<iframe src="https://giphy.com/embed/MWRiRARGbMKBnErBHX" width="480" height="231" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Code17-website-developer-code17-MWRiRARGbMKBnErBHX">via GIPHY</a></p>
-</div>
+        <img src="https://giphy.com/embed/MWRiRARGbMKBnErBHX" alt=”gif de algo”> 
+    </div>
  <div>
     <h1 align="center">Hi 👋, I'm Damián Quiñonez</h1>
     <h3 align="center">A passionate web full stack developer/Tester from Argentina.</h3>
