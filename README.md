@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <div>
-         <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+         <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
     </div>
  <div>
     <h1 align="center">Hi 👋, I'm Damián Quiñonez</h1>
