@@ -13,7 +13,6 @@
         <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDemianQnz"
             alt="Twitter Badge" />
         
-</div>
 ---
 
 ### 👨‍💻 About Me :
@@ -42,7 +41,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 
       </div>
-</div>
 
 ---
         
