@@ -8,11 +8,6 @@
 
 
 <div id="badges" align="center">
-    <a href="[LinkedIn](https://linkedin.com/damianqnz)">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-<div id="badges" align="center">
     <a href="[Twitter](https://twitter.com/DemianQnz")>
         <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDemianQnz"
             alt="Twitter Badge" />
