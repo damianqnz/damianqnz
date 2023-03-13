@@ -18,7 +18,7 @@
 </div>
 
 <div align="left">
-    <h2>🔨 Languages and Tools:</h2>
+    <h2>🔨 Languages and Tools</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="48" height="48"/>
@@ -31,8 +31,18 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" alt="MySql" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    
+<h2>📊 Currently i'm learning</h2>
 
-## ✨ Conect with Me
+<p align="left">
+<img align="center" src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="48" height="48"/>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="48" height="48"/>
+<img align="center" src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws" width="48" height="48"/>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="48" height="48"/>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="48" height="48"/>
+</p>
+
+✨ Conect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/damianqnz" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Profile" height="48" width="48" /></a>
