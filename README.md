@@ -2,16 +2,14 @@
     <div>
          <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
     </div>
- <div>
     <h1 align="center">Hi 👋, I'm Damián Quiñonez</h1>
     <h3 align="center">A passionate web full stack developer/Tester from Argentina.</h3>
-</div>
         
----
-
-### 👨‍💻 About Me 
-
 <div align="left">
+    
+<h2>👨‍💻 About Me </h2>
+
+    
   <p>- 💻 I am currently working as a project collaborator and supporting web content management systems (CMS) at [Video Produktion & Performance Marketing](https://www.jeaumavi.de/).</p>
   <p>- 🚀 I'm passionate about technology and to learning new things.</p>
   <p>- 🎓 I have experience making responsive web applications and working in team.</p>
@@ -19,9 +17,8 @@
   <p>- 🌐 Website www.damianqnz.tech </p>
 </div>
 
-
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h2>🔨 Languages and Tools:</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="48" height="48"/>
@@ -35,7 +32,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="mysql" alt="MySql" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 
----
 ## ✨ Conect with Me
 
 <p align="left">
@@ -53,7 +49,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DamianQuinionez&show_icons=true&theme=radical&hide_border=true" alt="Damian Quiñonez" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damianqnz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Damian Quiñonez" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Damianqnz&show_icons=true&theme=radical&hide_border=true" alt="damianqnz" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damianqnz&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="damianqnz" /></td>
   </tr>
 </table>
