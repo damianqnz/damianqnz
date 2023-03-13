@@ -42,7 +42,7 @@
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="48" height="48"/>
 </p>
 
-✨ Conect with Me
+<h2>✨ Conect with Me</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/damianqnz" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Linkedin Profile" height="48" width="48" /></a>
@@ -52,8 +52,9 @@
 
 
 <div id="header" align="center">
-    
-### 📊 My Stats :
+
+<h2>📊 My Stats</h2>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Damianqnz&theme=dark)](https://git.io/streak-stats)
 
