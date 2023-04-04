@@ -39,7 +39,6 @@
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="48" height="48"/>
 <img align="center" src="https://img.icons8.com/color/48/null/amazon-web-services.png" alt="aws" width="48" height="48"/>
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="48" height="48"/>
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="48" height="48"/>
 </p>
 
 <h2>✨ Conect with Me</h2>
